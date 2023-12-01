@@ -1,1 +1,3 @@
 # bug-reports
+
+## **THIS REPO IS USED FOR BUG REPORTS ONLY**
